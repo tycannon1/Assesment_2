@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+.form-group {
+    color: white;
+    
+}
+input {
+    background-color: white;
+}
+select {
+    background-color: white;
+    color: black;
+}
+button {
+background-color: white;
+color: black;
+}
+
+table, th, td {
+    border: 1px solid white;
+    padding: 5px;
+    margin-top: 50px;
+  }
